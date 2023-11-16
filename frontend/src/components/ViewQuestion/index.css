@@ -1,0 +1,58 @@
+.main-desc {
+    display: flex;
+    width: 900px;
+  }
+  
+  .info {
+    display: flex;
+    align-items: center;
+    font-size: small;
+  }
+  
+  .info > p {
+    color: rgba(0, 0, 0, 0.4);
+    margin: 0 10px;
+  }
+  
+  .info > p > span {
+    color: rgba(0, 0, 0, 0.8);
+    margin: 0 5px;
+  }
+  
+  .arrow {
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.25);
+  }
+  
+  .all-options > .MuiSvgIcon-root {
+    color: rgba(0, 0, 0, 0.25);
+    font-size: large;
+    margin: 5px 0;
+  }
+  
+  /* .ql-syntax {
+    display: flex;
+    width: 90%;
+    overflow: hidden;
+  } */
+  pre {
+    display: flex;
+    width: 90px;
+    flex-wrap: wrap;
+  }
+
+  /* .comments{
+   
+    margin:10px 0;
+    width:90%;
+    margin-left:auto;
+  }
+
+  .comment{
+    display:flex;
+    flex-direction: 0.9rem;
+    font-size: 0.9rem;
+    padding: 10px 0;
+    border-bottom: 1px solid white;
+  } */
+
